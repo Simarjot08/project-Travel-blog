@@ -1,5 +1,5 @@
 [build]
-  publish = "" # Replace "public" with the folder that contains your index.html
+  publish = "Desktop/pennip/project-Travel blog" # Replace "public" with the folder that contains your index.html
 [[redirects]]
   from = "/*"
   to = "/index.html"
